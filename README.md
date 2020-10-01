@@ -52,4 +52,5 @@ manage.py runserver
 
 
 If you want to run this application on a productive server ,  You'll have to set up a webserver and configure it according to Djangos how to;
+
 But thats on you dude!!
